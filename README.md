@@ -58,7 +58,7 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support or any questions, please reach out to [your-email@example.com](mailto:shaundamon09@gmail.com).
+For support or any questions, please reach out to [shaundamon09@gmail.com](mailto:shaundamon09@gmail.com).
 
 ---
 
