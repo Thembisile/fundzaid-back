@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-ui%!gkx49_hdg58bh%xcd%4-_lowvmzz+-+@_a)2u+w(86$2$z
 DEBUG = True
 
 ALLOWED_HOSTS = []
+CORS_ALLOWED_ORIGINS = ['*']
 
 
 # Application definition
@@ -39,7 +40,7 @@ INSTALLED_APPS = [
     'accounts',
     'fundraising',
     
-
+    'django_filters',
 
     'django.contrib.admin',
     'django.contrib.auth',
